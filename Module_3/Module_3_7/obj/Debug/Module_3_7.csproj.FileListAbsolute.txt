@@ -1,6 +1,0 @@
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\bin\Debug\Module_3_7.exe.config
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\bin\Debug\Module_3_7.exe
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\bin\Debug\Module_3_7.pdb
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\obj\Debug\Module_3_7.csproj.CoreCompileInputs.cache
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\obj\Debug\Module_3_7.exe
-D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_7\obj\Debug\Module_3_7.pdb
