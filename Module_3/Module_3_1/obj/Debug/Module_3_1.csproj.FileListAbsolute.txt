@@ -1,0 +1,7 @@
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\bin\Debug\Module_3_1.exe.config
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\bin\Debug\Module_3_1.exe
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\bin\Debug\Module_3_1.pdb
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\obj\Debug\Module_3_1.csprojAssemblyReference.cache
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\obj\Debug\Module_3_1.csproj.CoreCompileInputs.cache
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\obj\Debug\Module_3_1.exe
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Module_3\Module_3_1\obj\Debug\Module_3_1.pdb
