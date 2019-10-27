@@ -1,0 +1,12 @@
+C:\Users\Панасовская\Documents\module\Module_3\Module_3_7\bin\Debug\Module_3_7.exe.config
+C:\Users\Панасовская\Documents\module\Module_3\Module_3_7\bin\Debug\Module_3_7.exe
+C:\Users\Панасовская\Documents\module\Module_3\Module_3_7\bin\Debug\Module_3_7.pdb
+C:\Users\Панасовская\Documents\module\Module_3\Module_3_7\obj\Debug\Module_3_7.exe
+C:\Users\Панасовская\Documents\module\Module_3\Module_3_7\obj\Debug\Module_3_7.pdb
+E:\Module_3\Module_3_7\bin\Debug\Module_3_7.exe.config
+E:\Module_3\Module_3_7\bin\Debug\Module_3_7.exe
+E:\Module_3\Module_3_7\bin\Debug\Module_3_7.pdb
+E:\Module_3\Module_3_7\obj\Debug\Module_3_7.csprojAssemblyReference.cache
+E:\Module_3\Module_3_7\obj\Debug\Module_3_7.csproj.CoreCompileInputs.cache
+E:\Module_3\Module_3_7\obj\Debug\Module_3_7.exe
+E:\Module_3\Module_3_7\obj\Debug\Module_3_7.pdb
