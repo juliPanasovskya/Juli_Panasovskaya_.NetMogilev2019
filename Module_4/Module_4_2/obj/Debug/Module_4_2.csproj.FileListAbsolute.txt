@@ -1,0 +1,17 @@
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\bin\Debug\Module_4_2.exe.config
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\bin\Debug\Module_4_2.exe
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\bin\Debug\Module_4_2.pdb
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\obj\Debug\Module_4_2.csprojResolveAssemblyReference.cache
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\obj\Debug\Module_4_2.exe
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_2\obj\Debug\Module_4_2.pdb
+E:\Module_4\Module_4_2\bin\Debug\Module_4_2.exe.config
+E:\Module_4\Module_4_2\bin\Debug\Module_4_2.exe
+E:\Module_4\Module_4_2\bin\Debug\Module_4_2.pdb
+E:\Module_4\Module_4_2\bin\Debug\Module_4.exe
+E:\Module_4\Module_4_2\bin\Debug\Module_4.pdb
+E:\Module_4\Module_4_2\bin\Debug\Module_4.exe.config
+E:\Module_4\Module_4_2\obj\Debug\Module_4_2.csprojAssemblyReference.cache
+E:\Module_4\Module_4_2\obj\Debug\Module_4_2.csproj.CoreCompileInputs.cache
+E:\Module_4\Module_4_2\obj\Debug\Module_4_2.csproj.CopyComplete
+E:\Module_4\Module_4_2\obj\Debug\Module_4_2.exe
+E:\Module_4\Module_4_2\obj\Debug\Module_4_2.pdb
