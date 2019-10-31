@@ -1,0 +1,8 @@
+F:\Module_4\Module_4_8\bin\Debug\Module_4_8.exe.config
+E:\Module_4\Module_4_8\bin\Debug\Module_4_8.exe.config
+E:\Module_4\Module_4_8\bin\Debug\Module_4_8.exe
+E:\Module_4\Module_4_8\bin\Debug\Module_4_8.pdb
+E:\Module_4\Module_4_8\obj\Debug\Module_4_8.csprojAssemblyReference.cache
+E:\Module_4\Module_4_8\obj\Debug\Module_4_8.csproj.CoreCompileInputs.cache
+E:\Module_4\Module_4_8\obj\Debug\Module_4_8.exe
+E:\Module_4\Module_4_8\obj\Debug\Module_4_8.pdb
