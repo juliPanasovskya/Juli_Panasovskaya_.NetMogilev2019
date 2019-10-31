@@ -1,5 +1,0 @@
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_1\bin\Debug\Module_3_8_1.exe.config
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_1\bin\Debug\Module_3_8_1.exe
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_1\bin\Debug\Module_3_8_1.pdb
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_1\obj\Debug\Module_3_8_1.exe
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_1\obj\Debug\Module_3_8_1.pdb

@@ -1,6 +1,0 @@
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\bin\Debug\Module_3_8_2.exe.config
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\bin\Debug\Module_3_8_2.exe
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\bin\Debug\Module_3_8_2.pdb
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\obj\Debug\Module_3_8_2.exe
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\obj\Debug\Module_3_8_2.pdb
-C:\Users\Панасовская\Documents\module\Module_3\Module_3_8_2\obj\Debug\Module_3_8_2.csprojResolveAssemblyReference.cache
