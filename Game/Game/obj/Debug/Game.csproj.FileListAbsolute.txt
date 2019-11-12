@@ -1,0 +1,13 @@
+C:\Users\Панасовская\Documents\module\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Панасовская\Documents\module\Game\Game\bin\Debug\Game.exe
+C:\Users\Панасовская\Documents\module\Game\Game\bin\Debug\Game.pdb
+C:\Users\Панасовская\Documents\module\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Панасовская\Documents\module\Game\Game\obj\Debug\Game.exe
+C:\Users\Панасовская\Documents\module\Game\Game\obj\Debug\Game.pdb
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\bin\Debug\Game.exe.config
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\bin\Debug\Game.exe
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\bin\Debug\Game.pdb
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\obj\Debug\Game.exe
+D:\Training\Juli_Panasovskaya_.NetMogilev2019\Game\Game\obj\Debug\Game.pdb

@@ -1,0 +1,17 @@
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\bin\Debug\Module_4_5.exe.config
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\bin\Debug\Module_4_5.exe
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\bin\Debug\Module_4_5.pdb
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\obj\Debug\Module_4_5.exe
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\obj\Debug\Module_4_5.pdb
+C:\Users\Панасовская\Documents\module\Module_4\Module_4_5\obj\Debug\Module_4_5.csprojResolveAssemblyReference.cache
+E:\Module_4\Module_4_5\bin\Debug\Module_4_5.exe.config
+E:\Module_4\Module_4_5\bin\Debug\Module_4_5.exe
+E:\Module_4\Module_4_5\bin\Debug\Module_4_5.pdb
+E:\Module_4\Module_4_5\obj\Debug\Module_4_5.csprojAssemblyReference.cache
+E:\Module_4\Module_4_5\obj\Debug\Module_4_5.csproj.CoreCompileInputs.cache
+E:\Module_4\Module_4_5\obj\Debug\Module_4_5.exe
+E:\Module_4\Module_4_5\obj\Debug\Module_4_5.pdb
+E:\Module_4\Module_4_5\bin\Debug\Module_4.exe
+E:\Module_4\Module_4_5\bin\Debug\Module_4.pdb
+E:\Module_4\Module_4_5\bin\Debug\Module_4.exe.config
+E:\Module_4\Module_4_5\obj\Debug\Module_4_5.csproj.CopyComplete
